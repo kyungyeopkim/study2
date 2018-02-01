@@ -3,3 +3,4 @@ return 0;
 }
 void func1() {
 }
+¿ìÈ÷È÷ÆR
